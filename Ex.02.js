@@ -10,7 +10,6 @@ let count = firstbatch + secoundBatch
 console.log (count) 
 */
 
-
 let myAge = 26 
 let humanDogRatio = 7
 
